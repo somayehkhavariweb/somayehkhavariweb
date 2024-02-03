@@ -1,21 +1,21 @@
-# Accordion-Menu-By-React
+#pr2
 
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
+![viewfinal]
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+![view final]
 
-- [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)
+- [Demo Project]
 
-- Developed by pouria farahani
+- Developed by Somayeh Khavari
 
-- Created - 2022-11-26
+- Created - 2024
 
-- Technologies Used - Html , css , js , React.js
+- Technologies Used - Html , css 
 
 - Hooks Used : useState 
 
 - Role - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/pouria_farahani_developer) and [linkedin](https://www.linkedin.com/in/pouria-farahani-developer)
+- How to reach me : with my [instagram] and [linkedin]
