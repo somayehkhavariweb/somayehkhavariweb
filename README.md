@@ -6,7 +6,7 @@
 
 ⚠️ [Demo Project]
 
-🔻Developed by Somayeh Khavari  💻 ✈️
+🔻Developed by **Somayeh Khavari**  💻 ✈️
 
 🔻 Created - 2024
 
